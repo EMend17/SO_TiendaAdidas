@@ -1,7 +1,0 @@
-void ventanaCarritos();
-
-
-void ventanaCarritos()
-{
-	
-}
